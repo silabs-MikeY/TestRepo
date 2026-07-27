@@ -1,0 +1,4 @@
+/Users/miyablon/SimplicityStudio/v6_workspace/SMP_bt_soc_blinky/cmake_gcc/build/CMakeFiles/slc.dir
+/Users/miyablon/SimplicityStudio/v6_workspace/SMP_bt_soc_blinky/cmake_gcc/build/CMakeFiles/SMP_bt_soc_blinky.dir
+/Users/miyablon/SimplicityStudio/v6_workspace/SMP_bt_soc_blinky/cmake_gcc/build/CMakeFiles/edit_cache.dir
+/Users/miyablon/SimplicityStudio/v6_workspace/SMP_bt_soc_blinky/cmake_gcc/build/CMakeFiles/rebuild_cache.dir
